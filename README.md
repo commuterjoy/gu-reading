@@ -85,3 +85,19 @@ When we draw the average words read at the time of day we see a downwards trend 
 - I'm not sure what conclusion to draw from this.
 - Given the dips tend to start at around 6am on many days I suspect the trend is just related to UK traffic.
 
+# Data
+
+You can compare 100 articles in each guardian.co.uk section.
+
+- [World](world.md)
+- [UK](uk.md)
+- ... more soon!
+
+There's some more summary graphs here,
+
+- [Articles read by section](graphs/plots/article_percentage_read_by_section.pdf)
+- [More time graphs](graphs/plots/intraday_reading_stats_all_articles.pdf)
+
+
+
+

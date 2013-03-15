@@ -1,1 +1,3 @@
 plots.tgz
+*.html
+.DS_Store
