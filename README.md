@@ -53,7 +53,7 @@ Contrast the above with this next graph.
 - Repeat the excercise above, following the y-axis to 50% then across, then draw it across to the x-axis. We end up at the 40% percentile bucket.
 - This tells us that only 40% of people who viewed the article dropped out before half-way.
 
-Take a look through some of the graphs in [World](world.md] and note the extremes of these two patterns.
+Take a look through some of the graphs in [World](world.html) and note the extremes of these two patterns.
 
 ## Averages
 
@@ -91,9 +91,11 @@ When we draw the average words read at the time of day we see a downwards trend 
 
 You can compare 100 articles in each guardian.co.uk section.
 
-- [World](world.md)
-- [UK](uk.md)
+- [World](world.html)
+- [UK](uk.html)
 - ... more soon!
+
+There's some more summary graphs here,
 
 There's some more summary graphs here,
 
