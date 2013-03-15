@@ -1,0 +1,10 @@
+<style>
+body { margin: 3em auto; width: 50%; line-height: 150%; }
+img { width: 300px; margin: 10px 50px; }
+
+/** per graph widths */
+
+img[src="graphs/percent-read-over-time.png"] { min-width: 600px; margin-left: 0; }
+img[src="graphs/comment-is-free-percent-read.png"] { height: 291px; width: 300px; }
+
+</style>
